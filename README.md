@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-Olá, me chamo Cauã Boletini Remelli, tenho 19 anos e nascido em Sorocaba - SP. Atualmente, estou ingressando em um curso de Análise e Desenvolvimento de Sistemas na UNINTER. Sou um entusiasta da tecnologia e busco sempre aprender coisas novas.
+Olá, me chamo Cauã Boletini Remelli, tenho 19 anos e nasci em Sorocaba - SP. Atualmente, estou em transição de carreira e estou ingressando em um curso de Análise e Desenvolvimento de Sistemas. Sou um entusiasta da tecnologia e busco sempre aprender coisas novas. Atualmente meus estudos possuem o foco em Desenvolvimento Web e estudo HTML, CSS, JS, Boostrap entre outras. Estou sempre buscando conhecimento para aprimorar minha carreira profissional.
 
 <p align="left">
 </p>
