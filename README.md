@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Cauã Boletini Remelli
 
-**`Web Developer`**
+**`Software Developer`**
 
 Olá, me chamo Cauã Boletini Remelli, tenho 19 anos e nasci em Sorocaba - SP. Atualmente, trabalho como Software Developer em C# .NET. Sou um entusiasta da tecnologia e busco sempre aprender coisas novas. Estou sempre buscando conhecimento para aprimorar minha carreira e evoluir profissionalmente.
 
