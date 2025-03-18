@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-Olá, me chamo Cauã Boletini Remelli, tenho 19 anos e nasci em Sorocaba - SP. Atualmente, estou em transição de carreira e estou ingressando em um curso de Análise e Desenvolvimento de Sistemas. Sou um entusiasta da tecnologia e busco sempre aprender coisas novas. Atualmente meus estudos possuem o foco em Desenvolvimento Web e estudo HTML, CSS, JS, Boostrap entre outras. Estou sempre buscando conhecimento para aprimorar minha carreira profissional.
+Olá, me chamo Cauã Boletini Remelli, tenho 19 anos e nasci em Sorocaba - SP. Atualmente, trabalho como Software Developer em C# .NET. Sou um entusiasta da tecnologia e busco sempre aprender coisas novas. Estou sempre buscando conhecimento para aprimorar minha carreira e evoluir profissionalmente.
 
 <p align="left">
 </p>
@@ -10,6 +10,16 @@ Olá, me chamo Cauã Boletini Remelli, tenho 19 anos e nasci em Sorocaba - SP. A
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)" 
+/>
 
 <img 
     align="left" 
