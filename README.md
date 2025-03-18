@@ -63,14 +63,6 @@ Olá, me chamo Cauã Boletini Remelli, tenho 19 anos e nasci em Sorocaba - SP. A
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
